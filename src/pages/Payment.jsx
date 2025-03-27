@@ -112,7 +112,7 @@ function Payment() {
         Amount: summ,
         OrderId: orderId,
         Description: "Анализ техники бега от JogJoy",
-        Password: "your_password",
+        Password: "7ve5pcn6z84iq1es",
         NotificationURL: "https://ai.jogjoy.run/webhook",
       };
 
